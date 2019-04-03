@@ -7,7 +7,7 @@ body
 
   header>h1
 {
-  letter-spacing: 1px; /*Espacio entre letras*/
+  letter-spacing: 10px; /*Espacio entre letras*/
   text-transform: uppercase;/*transformacion del texto a mayusculas*/
   font-weight: bold; /*fuentes en negritas*/
   text-align: center;/*alineacion del texto*/
